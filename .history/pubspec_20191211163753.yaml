@@ -14,7 +14,7 @@ dependencies:
   video_player: ^0.10.0+4
   path_provider: ^1.2.0
   image_cropper: 1.0.0
-  native_device_orientation: ^0.3.0
+  native_device_orientation: ^02.0
   screen: ^0.0.5
   flutter:
     sdk: flutter
