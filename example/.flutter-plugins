@@ -1,9 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-camera=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\camera-0.4.3+2\\
-flutter_native_image=C:\\dev\\flutter\\.pub-cache\\git\\flutter_native_image-5d71bdc5624a846a1e973a43018f7b17d636fdc8\\
-image_cropper=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_cropper-1.0.0\\
-native_device_orientation=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\native_device_orientation-0.3.0\\
-path_provider=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.5.1\\
-screen=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\screen-0.0.5\\
-video_player=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player-0.10.5\\
-video_player_web=C:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_web-0.1.1\\
+camera=/Users/lucaspolazzo/.pub-cache/hosted/pub.dartlang.org/camera-0.4.3+2/
+flutter_native_image=/Users/lucaspolazzo/.pub-cache/git/flutter_native_image-5d71bdc5624a846a1e973a43018f7b17d636fdc8/
+image_cropper=/Users/lucaspolazzo/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.0/
+native_device_orientation=/Users/lucaspolazzo/.pub-cache/hosted/pub.dartlang.org/native_device_orientation-0.3.0/
+path_provider=/Users/lucaspolazzo/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/
+screen=/Users/lucaspolazzo/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/
