@@ -107,28 +107,7 @@ class _CameraState extends State<Camera> {
             );
 
         Widget _getButtonPhoto() {
-          if (widget.orientationEnablePhoto == CameraOrientation.all) {
-            return _buttonPhoto();
-          } else if (widget.orientationEnablePhoto ==
-              CameraOrientation.landscape) {
-            if (orientation == NativeDeviceOrientation.landscapeLeft ||
-                orientation == NativeDeviceOrientation.landscapeRight)
-              return _buttonPhoto();
-            else
-              return Container(
-                width: 0.0,
-                height: 0.0,
-              );
-          } else {
-            if (orientation == NativeDeviceOrientation.portraitDown ||
-                orientation == NativeDeviceOrientation.portraitUp)
-              return _buttonPhoto();
-            else
-              return Container(
-                width: 0.0,
-                height: 0.0,
-              );
-          }
+          return _buttonPhoto();
         }
 
         if (orientation == NativeDeviceOrientation.portraitDown ||
